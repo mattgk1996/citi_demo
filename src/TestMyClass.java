@@ -8,10 +8,10 @@ public class TestMyClass {
 		//m.init();
 		m.display();
 		
-		MyClass  m1;
-		m1 = new MyClass(123,78f,"Abdf",234d,true);
+		//MyClass  m1;
+		m = new MyClass(123,78f,"Abdf",234d,true);
 		//m1.init(123,78f,"Abdf",435d,false);
-		m1.display();
+		m.display();
 		
 	}
 
