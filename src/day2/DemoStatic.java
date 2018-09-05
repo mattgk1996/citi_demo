@@ -1,4 +1,4 @@
-package DemoStatic;
+package day2;
 
 public class DemoStatic {
 	
