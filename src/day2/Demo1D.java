@@ -25,6 +25,7 @@ public class Demo1D {
 			System.out.println(var);
 		}
 		
+		
 	}
 
 }
